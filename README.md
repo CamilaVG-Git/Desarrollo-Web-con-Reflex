@@ -32,3 +32,15 @@ Puedes desplegarlo en línea usando Reflex hosting, si lo deseas.
 
 Comparte el enlace del repositorio y/o del sitio desplegado.
 
+--Imagen de donde me para hacer la página:--
+<img width="1500" height="2531" alt="image" src="https://github.com/user-attachments/assets/66323a56-579d-4219-b4c8-47110acb014e" />
+
+--¿Cómo hacer que la página funcione?--
+Abra: http://localhost:3000/
+
+Si no funciona:
+-Abra el visual studio code e inicie un nuevo proyecto con reflex en la terminal.
+-En el github busque donde dice "pagina-web/pagina-web.py" y copie el código entero.
+-Luego va al visual studio y donde diga [Nombre-de-su-archivo].py lo pega ahí.
+-El link que le salga lo abre y listo.
+
